@@ -15,3 +15,8 @@ Repo for exercise
 ### Cafe Frida
 ### Refresh Rooms 
 ### St Bart
+
+
+
+here i am making some chaaanges 
+change 2
